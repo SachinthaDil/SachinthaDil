@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SachinthaDil
 - 👀 I’m interested in Web Development and new User experience designs. 
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently learning Version Controlling
 
 
 <!---
